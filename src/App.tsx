@@ -1,10 +1,14 @@
 import React from 'react';
 import './App.scss';
+import { AddQuestion } from './components/AddQuestion/AddQuestion';
+import { NewExam } from './components/NewExam/NewExam';
 
 const App: React.FC = () => {
   return (
     <div className="App">
-      <h1>I am Title</h1>
+      <NewExam />
+      <br />
+      <AddQuestion />
     </div>
   );
 }
