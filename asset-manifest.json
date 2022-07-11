@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tensionx-test_task/static/css/main.d8f55758.css",
-    "main.js": "/tensionx-test_task/static/js/main.9f810d57.js",
+    "main.js": "/tensionx-test_task/static/js/main.f901f10f.js",
     "index.html": "/tensionx-test_task/index.html",
     "main.d8f55758.css.map": "/tensionx-test_task/static/css/main.d8f55758.css.map",
-    "main.9f810d57.js.map": "/tensionx-test_task/static/js/main.9f810d57.js.map"
+    "main.f901f10f.js.map": "/tensionx-test_task/static/js/main.f901f10f.js.map"
   },
   "entrypoints": [
     "static/css/main.d8f55758.css",
-    "static/js/main.9f810d57.js"
+    "static/js/main.f901f10f.js"
   ]
 }
