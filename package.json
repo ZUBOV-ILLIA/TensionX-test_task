@@ -1,6 +1,6 @@
 {
   "name": "tensionx-test_task",
-  "homepage": "https://zubov-illia.github.io/tensionx-test_task",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

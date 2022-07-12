@@ -20,49 +20,49 @@ export const NewExam = () => {
                 <MainMenuItem gap={"10px"}>
                   <FlexRow backgroundColor={"transparent"}>
                     <Lsgraph
-                      src={"https://file.rendit.io/n/n0LtwXjcOgZ2EB3WQXu2.svg"}
+                      src={"images/graph.svg"}
                     />
                   </FlexRow>
                 </MainMenuItem>
                 <MainMenuItem gap={"10px"}>
                   <FlexRow backgroundColor={"transparent"}>
                     <Lsgraph
-                      src={"https://file.rendit.io/n/JCEuKa7mroekwFDvQJqs.svg"}
+                      src={"images/books.svg"}
                     />
                   </FlexRow>
                 </MainMenuItem>
                 <MainMenuItem gap={"10px"}>
                   <FlexRow backgroundColor={"transparent"}>
                     <Lsgraph
-                      src={"https://file.rendit.io/n/V4Y5O3pj6tBZO7O8aXqv.svg"}
+                      src={"images/homes.svg"}
                     />
                   </FlexRow>
                 </MainMenuItem>
                 <MainMenuItem gap={"10px"}>
                   <FlexRow backgroundColor={"transparent"}>
                     <Lsgraph
-                      src={"https://file.rendit.io/n/kvsSIOcdXPcHRL8TnTzn.svg"}
+                      src={"images/board.svg"}
                     />
                   </FlexRow>
                 </MainMenuItem>
                 <MainMenuItem gap={"10px"}>
                   <FlexRow backgroundColor={"transparent"}>
                     <Lsgraph
-                      src={"https://file.rendit.io/n/cOgxWEmOQYh7zRAMZuGv.svg"}
+                      src={"images/student.svg"}
                     />
                   </FlexRow>
                 </MainMenuItem>
                 <MainMenuItem gap={"10px"}>
                   <FlexRow backgroundColor={"#4282aa"}>
                     <Lsgraph
-                      src={"https://file.rendit.io/n/J1OLwAPUZctZbctUL9gI.svg"}
+                      src={"images/exam.svg"}
                     />
                   </FlexRow>
                 </MainMenuItem>
                 <MainMenuItem gap={"10px"}>
                   <FlexRow backgroundColor={"transparent"}>
                     <Lsgraph
-                      src={"https://file.rendit.io/n/4Jn2vywajEhUUohFyLnp.svg"}
+                      src={"images/library.svg"}
                     />
                   </FlexRow>
                 </MainMenuItem>
@@ -72,14 +72,14 @@ export const NewExam = () => {
               <MainMenuItem gap={"10px"}>
                 <FlexRow6>
                   <Lsgraph
-                    src={"https://file.rendit.io/n/Je4Z4Zr8Ppk4fxQMqiAR.svg"}
+                    src={"images/list.svg"}
                   />
                 </FlexRow6>
               </MainMenuItem>
               <MainMenuItem gap={"10px"}>
                 <FlexRow backgroundColor={"transparent"}>
                   <Lsgraph
-                    src={"https://file.rendit.io/n/QRAkIiDuqPpDWCk7nfLV.svg"}
+                    src={"images/settings.svg"}
                   />
                 </FlexRow>
               </MainMenuItem>
@@ -100,13 +100,13 @@ export const NewExam = () => {
                     <FlexRow9 gap={"8px"}>
                       <Image4
                         src={
-                          "https://file.rendit.io/n/8bYzpukU5j45J8UVv5dP.svg"
+                          "images/exam_small.svg"
                         }
                       />
                       <Title>Exams</Title>
                     </FlexRow9>
                     <Image4
-                      src={"https://file.rendit.io/n/CSHtE9BpBTLE2mZG91AS.svg"}
+                      src={"images/arrow.svg"}
                     />
                     <Title1>New Exam Title Here</Title1>
                   </MainMenuItem>
@@ -121,7 +121,7 @@ export const NewExam = () => {
                     <MasterButton>
                       <Clear
                         src={
-                          "https://file.rendit.io/n/PwspFEBU2ibRv6Co8rfs.svg"
+                          "images/x.svg"
                         }
                       />
                       <Title2 color={"#777777"}>Delete Exam</Title2>
@@ -131,7 +131,7 @@ export const NewExam = () => {
                     <MasterButton1>
                       <Clear
                         src={
-                          "https://file.rendit.io/n/UPNuW8tb4xfwIF8VfaTG.svg"
+                          "images/ok.svg"
                         }
                       />
                       <Title2 color={"#ffffff"}>Save Exam</Title2>
@@ -150,7 +150,7 @@ export const NewExam = () => {
                       <FlexRow9 gap={"12px"}>
                         <Graduationcapf
                           src={
-                            "https://file.rendit.io/n/8TLgJFhOIbiQf1WKKjjw.png"
+                            "images/grade.png"
                           }
                         />
                         <MainMenu margin={"0"}>
@@ -163,7 +163,7 @@ export const NewExam = () => {
                       <FlexRow9 gap={"12px"}>
                         <Graduationcapf
                           src={
-                            "https://file.rendit.io/n/qMgdUAy4tQcIzDlVbjNK.png"
+                            "images/science.png"
                           }
                         />
                         <MainMenu margin={"0"}>
@@ -178,7 +178,7 @@ export const NewExam = () => {
                       <FlexRow9 gap={"12px"}>
                         <Graduationcapf
                           src={
-                            "https://file.rendit.io/n/maWOe6xjonEr2UpCODAz.png"
+                            "images/biology.png"
                           }
                         />
                         <MainMenu margin={"0"}>
@@ -189,14 +189,14 @@ export const NewExam = () => {
                     </FlexRow16>
                     <Image5 src={""} />
                     <Image6
-                      src={"https://file.rendit.io/n/HUXBWdWbeLLXCMpUuikP.svg"}
+                      src={"images/line.svg"}
                     />
                     <Image7 src={""} />
                     <FlexRow16>
                       <FlexRow9 gap={"12px"}>
                         <UnsplashCTagwPbQg
                           src={
-                            "https://file.rendit.io/n/IcLnmBOCrzEo1BLODkpX.png"
+                            "images/180minutes.png"
                           }
                         />
                         <MainMenu margin={"0"}>
@@ -218,7 +218,7 @@ export const NewExam = () => {
                       <MasterButton2>
                         <Clear
                           src={
-                            "https://file.rendit.io/n/5kBbmlfIS2ApAC1CpWDb.svg"
+                            "images/plus.svg"
                           }
                         />
                         <Title2 color={"#4282aa"}>Add Question</Title2>
@@ -233,20 +233,20 @@ export const NewExam = () => {
                 <MainMenuItem gap={"1px"}>
                   <WhiteFlexRow1>
                     <Graduationcapf
-                      src={"https://file.rendit.io/n/eH11ol6WMUvf3NBNkAtW.png"}
+                      src={"images/teachers.png"}
                     />
                     <Text3>Assigned Teachers</Text3>
                   </WhiteFlexRow1>
                 </MainMenuItem>
                 <Devider
-                  src={"https://file.rendit.io/n/eGKf7sbvj2KQaNP7jrqu.svg"}
+                  src={"images/line2.svg"}
                 />
                 <SchoolsScroll>
                   <Schools>
                     <Search1>
                       <Image4
                         src={
-                          "https://file.rendit.io/n/c22xhwrnAW1sQUnkrX4n.svg"
+                          "images/search.svg"
                         }
                       />
                       <SearchByName />
@@ -258,7 +258,7 @@ export const NewExam = () => {
                       <CheckBox1>
                         <Image4
                           src={
-                            "https://file.rendit.io/n/rEBnzx1jiZAaK8jspeMo.svg"
+                            "images/checkbox.svg"
                           }
                         />
                       </CheckBox1>
@@ -267,7 +267,7 @@ export const NewExam = () => {
                       <CheckBox1>
                         <Image4
                           src={
-                            "https://file.rendit.io/n/kzSQrGsgZFStqKatlDyR.svg"
+                            "images/checkbox.svg"
                           }
                         />
                       </CheckBox1>
@@ -277,7 +277,7 @@ export const NewExam = () => {
                       <CheckBox1>
                         <Image4
                           src={
-                            "https://file.rendit.io/n/rEBnzx1jiZAaK8jspeMo.svg"
+                            "images/checkbox.svg"
                           }
                         />
                       </CheckBox1>
@@ -286,7 +286,7 @@ export const NewExam = () => {
                       <CheckBox1>
                         <Image4
                           src={
-                            "https://file.rendit.io/n/kzSQrGsgZFStqKatlDyR.svg"
+                            "images/play.svg"
                           }
                         />
                       </CheckBox1>
@@ -296,7 +296,7 @@ export const NewExam = () => {
                       <CheckBox1>
                         <Image4
                           src={
-                            "https://file.rendit.io/n/rEBnzx1jiZAaK8jspeMo.svg"
+                            "images/checkbox.svg"
                           }
                         />
                       </CheckBox1>
@@ -305,7 +305,7 @@ export const NewExam = () => {
                       <CheckBox1>
                         <Image4
                           src={
-                            "https://file.rendit.io/n/kzSQrGsgZFStqKatlDyR.svg"
+                            "images/play.svg"
                           }
                         />
                       </CheckBox1>
@@ -315,7 +315,7 @@ export const NewExam = () => {
                       <CheckBox1>
                         <Image4
                           src={
-                            "https://file.rendit.io/n/rEBnzx1jiZAaK8jspeMo.svg"
+                            "images/checkbox.svg"
                           }
                         />
                       </CheckBox1>
@@ -324,7 +324,7 @@ export const NewExam = () => {
                       <CheckBox1>
                         <Image4
                           src={
-                            "https://file.rendit.io/n/kzSQrGsgZFStqKatlDyR.svg"
+                            "images/play.svg"
                           }
                         />
                       </CheckBox1>
@@ -334,7 +334,7 @@ export const NewExam = () => {
                       <CheckBox1>
                         <Image4
                           src={
-                            "https://file.rendit.io/n/rEBnzx1jiZAaK8jspeMo.svg"
+                            "images/checkbox.svg"
                           }
                         />
                       </CheckBox1>
@@ -343,7 +343,7 @@ export const NewExam = () => {
                       <CheckBox1>
                         <Image4
                           src={
-                            "https://file.rendit.io/n/kzSQrGsgZFStqKatlDyR.svg"
+                            "images/play.svg"
                           }
                         />
                       </CheckBox1>
@@ -353,7 +353,7 @@ export const NewExam = () => {
                       <CheckBox1>
                         <Image4
                           src={
-                            "https://file.rendit.io/n/rEBnzx1jiZAaK8jspeMo.svg"
+                            "images/checkbox.svg"
                           }
                         />
                       </CheckBox1>
@@ -362,7 +362,7 @@ export const NewExam = () => {
                       <CheckBox1>
                         <Image4
                           src={
-                            "https://file.rendit.io/n/kzSQrGsgZFStqKatlDyR.svg"
+                            "images/play.svg"
                           }
                         />
                       </CheckBox1>
@@ -372,7 +372,7 @@ export const NewExam = () => {
                       <CheckBox1>
                         <Image4
                           src={
-                            "https://file.rendit.io/n/rEBnzx1jiZAaK8jspeMo.svg"
+                            "images/checkbox.svg"
                           }
                         />
                       </CheckBox1>
@@ -381,7 +381,7 @@ export const NewExam = () => {
                       <CheckBox1>
                         <Arrowright6
                           src={
-                            "https://file.rendit.io/n/kzSQrGsgZFStqKatlDyR.svg"
+                            "images/play.svg"
                           }
                         />
                       </CheckBox1>
@@ -391,14 +391,14 @@ export const NewExam = () => {
                       <CheckBox1>
                         <Arrowright6
                           src={
-                            "https://file.rendit.io/n/rEBnzx1jiZAaK8jspeMo.svg"
+                            "images/checkbox.svg"
                           }
                         />
                       </CheckBox1>
                     </FlexRow46>
                   </Schools>
                   <Scroll1
-                    src={"https://file.rendit.io/n/pzJl6gIrxrRA2HbiMm5V.svg"}
+                    src={"images/vert-scroll.svg"}
                   />
                 </SchoolsScroll>
               </Assignee1>
